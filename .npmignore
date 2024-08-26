@@ -3,6 +3,7 @@
 !umd/
 !/*.js
 !/*.ts
+*.config.js
 !README.md
 !LICENSE
 !package.json
